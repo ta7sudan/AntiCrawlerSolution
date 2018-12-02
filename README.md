@@ -219,4 +219,6 @@
 
 # 3 大V推荐
 
-验证码相关： [冷月的博客](https://lengyue.me/)
+### 验证码相关： [冷月的博客](https://lengyue.me/)
+
+### 脱壳破解相关：[吾爱破解](https://www.52pojie.cn/forum-5-1.html)
