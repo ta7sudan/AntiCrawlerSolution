@@ -93,7 +93,8 @@
 
     我们的想法很简单：“正如没有穿不透的墙，也没有反不了的反爬”
     加入我们，反“反爬”。
-
+    
+   ![微信群](https://github.com/AntiCrawlerSolution/AntiCrawlerSolution/blob/master/Static/wechat_group.jpg)
 
 ## 1.4 感谢
 
